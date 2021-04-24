@@ -12,3 +12,7 @@ Now our work will continue locally
 1. add a newfile caleed note.txt
 2. comited the cahnaged to localy repo
 3. we want this change to be reftected in remote repository
+
+How to save after adding some text in sublime
+on mac Command+s
+on Windows Control+s
