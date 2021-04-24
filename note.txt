@@ -16,3 +16,5 @@ Now our work will continue locally
 How to save after adding some text in sublime
 on mac Command+s
 on Windows Control+s
+
+we do not have to push one commit at the time
