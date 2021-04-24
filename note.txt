@@ -4,4 +4,4 @@ few thing happened
 1. It automatically creaty ne Remote Repo under
 	your Github.com account
 2.Made the connection with your local git repo
-3.Added all your commits to remote repo
+3.Added all your commits to remote repo 
